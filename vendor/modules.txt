@@ -1,0 +1,41 @@
+## workspace
+# github.com/agiledragon/gomonkey/v2 v2.13.0
+## explicit; go 1.14
+github.com/agiledragon/gomonkey/v2
+github.com/agiledragon/gomonkey/v2/creflect
+# github.com/busyster996/go-hotfix v0.0.0-00010101000000-000000000000 => .
+## explicit; go 1.23.3
+# github.com/pires/go-proxyproto v0.8.0
+## explicit; go 1.18
+github.com/pires/go-proxyproto
+# github.com/reiver/go-oi v1.0.0
+## explicit
+github.com/reiver/go-oi
+# github.com/reiver/go-telnet v0.0.0-20180421082511-9ff0b2ab096e
+## explicit
+github.com/reiver/go-telnet
+github.com/reiver/go-telnet/telsh
+# github.com/soheilhy/cmux v0.1.5
+## explicit; go 1.11
+github.com/soheilhy/cmux
+# github.com/traefik/yaegi v0.16.1
+## explicit; go 1.21
+github.com/traefik/yaegi/internal/unsafe2
+github.com/traefik/yaegi/interp
+github.com/traefik/yaegi/stdlib
+github.com/traefik/yaegi/stdlib/generic
+github.com/traefik/yaegi/stdlib/syscall
+github.com/traefik/yaegi/stdlib/unrestricted
+github.com/traefik/yaegi/stdlib/unsafe
+# golang.org/x/net v0.33.0
+## explicit; go 1.18
+golang.org/x/net/http/httpguts
+golang.org/x/net/http2
+golang.org/x/net/http2/hpack
+golang.org/x/net/idna
+# golang.org/x/text v0.21.0
+## explicit; go 1.18
+golang.org/x/text/secure/bidirule
+golang.org/x/text/transform
+golang.org/x/text/unicode/bidi
+golang.org/x/text/unicode/norm
